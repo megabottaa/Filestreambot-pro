@@ -40,6 +40,7 @@
 
 # My Telegram Bot Link 
     https://t.me/fileXtoXlink_bot
+    Bot Name : FILE TO LINK
 
 
 ## ♢ How to make your own :
